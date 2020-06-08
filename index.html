@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LetsChat</title>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<style >.error {color: #FF0000;} 	
+	.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  height: 50px;
+}
+.footer a
+{
+	background-color: #ffffa0;
+}
+
+</style>
+</head>
+<body>
+	<div class="chat-logo">
+		<img src="chatlogo.png" width=100px height=100px >
+		<h1>&nbsp;&nbsp;&nbsp;LetsChat</h1>
+	</div>
+	<div class="login-box">
+		<form action="chatroom.php" method="post">
+			<br><br>
+			DisplayName: <input type="text" name="name"><span class="error">*required </span><br><br>
+			Bio:<textarea name="bio" rows="4" cols="50"></textarea>
+			Roompassword: <input type="text" name="pwd">			<span class="error">*required </span><br><br>
+			<input  type="submit" value="Log-in">
+			</form>
+	</div>
+		<div class="footer"><br><b>pavan-kaushal</b>:<a href="https://github.com/pavan-kaushal/group-chatroom">Github</a></div>
+	
+	
+</body>
+
+</html>
