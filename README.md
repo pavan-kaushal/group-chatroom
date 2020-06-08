@@ -23,8 +23,10 @@ https://medium.com/@winni4eva/php-websockets-with-ratchet-5e76bacd7548
 
 𝟮.run the websocket.php file from your php shell using the below command
 -𝐟  [𝐏𝐀𝐓𝐇 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐰𝐞𝐛𝐬𝐨𝐜𝐤𝐞𝐭.𝐩𝐡𝐩 𝐅𝐈𝐋𝐄]\𝐰𝐞𝐛𝐬𝐨𝐜𝐤𝐞𝐭.𝐩𝐡𝐩
+
               【ｏｒ】
-   open cmd navigate to php folder and execute
+ 
+  open cmd navigate to php folder and execute
  [𝐏𝐀𝐓𝐇 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐩𝐡𝐩.𝐞𝐱𝐞 𝐅𝐈𝐋𝐄]\𝐩𝐡𝐩.𝐞𝐱𝐞 -𝐟 [𝐏𝐀𝐓𝐇 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐰𝐞𝐛𝐬𝐨𝐜𝐤𝐞𝐭.𝐩𝐡𝐩 𝐅𝐈𝐋𝐄]\𝐰𝐞𝐛𝐬𝐨𝐜𝐤𝐞𝐭.𝐩𝐡𝐩
 
 𝟯.open the localhost and click your extracted folder
