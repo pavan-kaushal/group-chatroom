@@ -50,16 +50,28 @@ $_SESSION["name"]=$_POST["name"];
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
   color: white;
-  text-align: center;
+  text-align: left;
   height: 40px;
 
 }
-.footer a
-{
-	background-color: #ffffa0;
-}
+
+.footer2 {
+ 		   position: fixed;
+ 			 left: 0;
+ 			 bottom: 0;
+ 			 width: 100%;
+ 			 background-color: red;
+  			color: white;
+			  text-align: left;
+			  height: 50px;
+			  margin-left: 1300px;
+			  padding-left: 40px;
+				}
+		.footer2 a
+		{
+		background-color: #ffffa0;
+		}
 
 	b
 	{
@@ -108,7 +120,7 @@ button:active {
 	
 	<h1>welcome to The Chatroom <?php echo $_POST["name"]; ?></h1>
 
-			<button onclick="location.href='index.html';" id="stop-button"> Log-out </button><br><br>
+			<button onclick="location.href='index.html';" id="stop-button"> Leave </button><br><br>
 	
 	
 	<div id="wrapper">
@@ -187,6 +199,6 @@ button:active {
 	
 		</script>
 	</div>
-	<div class="footer"><br><b>pavan-kaushal</b>:<a href="https://github.com/pavan-kaushal/group-chatroom">Github</a></div>
+	<div class="footer2"><br>pavan-kaushal	:<a href="https://github.com/pavan-kaushal/group-chatroom">Github</a></div>
 </body>
 </html>

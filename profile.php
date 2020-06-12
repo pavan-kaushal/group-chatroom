@@ -40,21 +40,21 @@ session_start();
 }
 
 .footer {
-    position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
-  height:50px;
-
-}
-
-.footer a
-{
-	background-color: #ffffa0;
-}
+ 		   position: fixed;
+ 			 left: 0;
+ 			 bottom: 0;
+ 			 width: 100%;
+ 			 background-color: red;
+  			color: white;
+			  text-align: left;
+			  height: 50px;
+			  margin-left: 1300px;
+			  padding-left: 40px;
+				}
+		.footer a
+		{
+		background-color: #ffffa0;
+		}
 
 </style>
 
