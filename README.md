@@ -30,7 +30,9 @@ https://www.sitepoint.com/how-to-quickly-build-a-chat-app-with-ratchet/
 
 𝟔.now to test the application open the incognito window and check with another display name
 
-𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺: 𝟭.User Profile
+𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺: 
+
+𝟭.User Profile
 
 𝟮.PROMT to all active clients when a new client logs in
 
